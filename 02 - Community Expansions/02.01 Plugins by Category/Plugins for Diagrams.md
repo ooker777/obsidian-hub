@@ -11,6 +11,8 @@ publish: true
 
 Plugins to create diagrams other than [[Mermaid]] (which is [already natively supported by Obsidian](https://help.obsidian.md/How+to/Format+your+notes#Diagram)).
 
+See also [Ooker's review about hierarchical graph plugins on the forum](https://forum.obsidian.md/t/graphviz-and-hierarchical-graph-layout-a-review-and-plugin-proposal/31596?u=ooker) 
+
 ## Plugins in this category
 
 %% Add a bullet here and link to the plugins you'd like to categorize! %%
